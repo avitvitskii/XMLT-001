@@ -1,2 +1,2 @@
-# XMLT-001
+# labs-stuff
 IFMO studying
