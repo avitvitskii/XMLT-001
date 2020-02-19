@@ -1,2 +1,2 @@
 # labs-stuff
-IFMO studying
+Completed tasks for ITMO studying
